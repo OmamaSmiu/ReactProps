@@ -11,3 +11,42 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+fieldset{
+  margin-left: 400px;
+  width: 350px;
+}
+#txt{
+  font-size: 15px;
+  font-weight: 600;
+}
+#img{
+  width: 75px;
+  height: 75px;
+  border-radius: 50px;
+  float: left;;
+}
+#quote{
+  font-size: 16px;
+  font-weight: 600;
+}
+#profileImg{
+  width: 500px;
+  border: 1px solid black;
+}
+#likeBtn{
+  width: 100px;
+  height: 30px;
+  font-size: medium;
+}
+#commentBtn{
+  width: 100px;
+  height: 30px;
+  margin-left: 70px;
+  font-size: 14px;
+}
+#shareBtn{
+  width: 100px;
+  height: 30px;
+  margin-left: 70px;
+  font-size: 14px;
+}
