@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/OmamaSmiu/ReactProps/static/css/main.01f58173.chunk.css",
+    "main.js": "/OmamaSmiu/ReactProps/static/js/main.d0cf442b.chunk.js",
+    "main.js.map": "/OmamaSmiu/ReactProps/static/js/main.d0cf442b.chunk.js.map",
+    "runtime-main.js": "/OmamaSmiu/ReactProps/static/js/runtime-main.e14cc3a5.js",
+    "runtime-main.js.map": "/OmamaSmiu/ReactProps/static/js/runtime-main.e14cc3a5.js.map",
+    "static/js/2.6341cb91.chunk.js": "/OmamaSmiu/ReactProps/static/js/2.6341cb91.chunk.js",
+    "static/js/2.6341cb91.chunk.js.map": "/OmamaSmiu/ReactProps/static/js/2.6341cb91.chunk.js.map",
+    "index.html": "/OmamaSmiu/ReactProps/index.html",
+    "static/css/main.01f58173.chunk.css.map": "/OmamaSmiu/ReactProps/static/css/main.01f58173.chunk.css.map",
+    "static/js/2.6341cb91.chunk.js.LICENSE.txt": "/OmamaSmiu/ReactProps/static/js/2.6341cb91.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e14cc3a5.js",
+    "static/js/2.6341cb91.chunk.js",
+    "static/css/main.01f58173.chunk.css",
+    "static/js/main.d0cf442b.chunk.js"
+  ]
+}
